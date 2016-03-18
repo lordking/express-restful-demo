@@ -1,0 +1,238 @@
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)

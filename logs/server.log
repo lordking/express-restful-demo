@@ -1,0 +1,364 @@
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:13.611]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:13.659]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:13.715]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:13.826]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:13.826]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:13.827]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:13.827]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:13.827]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:14.442]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:14.489]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:14.546]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:14.656]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:14.656]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:14.657]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:14.657]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:14.657]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:15.266]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:15.315]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:15.373]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:15.481]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:15.482]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:15.482]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:15.483]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:15.483]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:16.93]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:16.140]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:16.199]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:16.310]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:16.310]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:16.311]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:16.311]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:16.311]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:16.924]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:16.974]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:17.33]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:17.147]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:17.148]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:17.148]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:17.149]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:17.149]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:17.797]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:17.845]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:17.905]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:18.17]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:18.17]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:18.18]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:18.18]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:18.18]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:18.644]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:18.692]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:18.748]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:18.859]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:18.860]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:18.860]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:18.861]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:18.861]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:19.475]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:19.524]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:19.582]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:19.690]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:19.690]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:19.690]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:19.691]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:19.691]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:20.307]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:20.354]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:20.410]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:20.521]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:20.522]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:20.522]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:20.523]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:20.523]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:21.149]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:21.197]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:21.253]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:21.363]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:21.364]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:21.364]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:21.364]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:21.365]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:21.989]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:22.40]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:22.98]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:22.211]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:22.212]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:22.212]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:22.212]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:22.213]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:22.894]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:22.942]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:22.998]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:23.108]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:23.109]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:23.109]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:23.109]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:23.109]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:23.733]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:23.785]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:23.843]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:23.949]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:23.950]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:23.950]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:23.951]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:23.951]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:24.565]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:24.612]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:24.670]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:24.782]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:37:24.782]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:37:24.782]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:37:24.783]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:37:24.783]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:37 +08:00: Error: listen EADDRINUSE :::8080
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1236:14)
+    at listen (net.js:1272:10)
+    at Server.listen (net.js:1368:5)
+    at EventEmitter.listen (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/express/lib/application.js:617:24)
+    at start (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:57:9)
+    at Object.httpHelp.bootstrap (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/http.js:84:5)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/config/bootstrap.js:20:19
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:718:13
+    at iterate (/Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:262:13)
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:274:29
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:44:16
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:723:17
+    at /Users/macos/Documents/jinlei/workspace/express-restful-demo/node_modules/async/lib/async.js:167:37
+    at RedisClient.<anonymous> (/Users/macos/Documents/jinlei/workspace/express-restful-demo/lib/redis.js:31:7)
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:25.436]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:37 +08:00: [2016-03-18 15:37:25.487]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:59 +08:00: [2016-03-18 15:59:15.100]  INFO: [36m--------------------- express-restful-demo -----------------------[39m
+2016-03-18 15:59 +08:00: [2016-03-18 15:59:15.146]  INFO: [36mDatabase: mongodb://127.0.0.1:27017/sample[39m
+2016-03-18 15:59 +08:00: [2016-03-18 15:59:15.201]  INFO: [36mRedis: 127.0.0.1:6379[39m
+2016-03-18 15:59 +08:00: [2016-03-18 15:59:15.306]  INFO: [36mInit controller: post /sample/hello[39m
+[2016-03-18 15:59:15.307]  INFO: [36mInit controller: post /person/new[39m
+[2016-03-18 15:59:15.307]  INFO: [36mInit controller: get /person/:username[39m
+[2016-03-18 15:59:15.307]  INFO: [36mInit controller: put /person/:username[39m
+[2016-03-18 15:59:15.308]  INFO: [36mInit controller: delete /person/:username[39m
+2016-03-18 15:59 +08:00: [2016-03-18 15:59:15.313]  INFO: [36mHTTP On: 8080[39m
+2016-03-18 15:59 +08:00: [2016-03-18 15:59:15.321]  INFO: [36mwrite pid: 11017  to app.pid file success[39m
+2016-03-18 15:59 +08:00: [2016-03-18 15:59:15.321]  INFO: [36m--------------------------------------------------------
+[39m

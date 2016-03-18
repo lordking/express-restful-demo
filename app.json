@@ -1,0 +1,9 @@
+{
+  "name"   : "express-restful-demo",
+  "max_memory_restart" : "1024M",
+  "script": "app.js",
+  "log_file": "logs/server.log",
+  "error_file": "logs/error.log",
+  "merge_logs": true,
+  "log_date_format": "YYYY-MM-DD HH:mm Z"
+}
