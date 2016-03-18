@@ -80,6 +80,15 @@ var mongo = require('../lib/mongo'),
   SampleController.registerSession = function(req, res) {
 
     var sid = _.uniqueId('sid_');
+    var request = req.body;
+
+    if (!request.username) {
+      return res.jsonResponse(400, '`username` is required');
+    }
+
+    if (!request.appCode) {
+      return res.jsonResponse(400, '`appCode` is required');
+    }
 
     //创建会话
     var value = {
@@ -87,11 +96,13 @@ var mongo = require('../lib/mongo'),
       appCode: request.appCode
     };
     redisClient.hmset(sid, value);
-    redisClient.expire(sid, 30);
+    redisClient.expire(sid, 300);
 
     //打印会话
     redisClient.hgetall(sid, function(err, session) {
-      logger.info('redis register:', sid, session);
+      logger.debug('redis register:', sid, session);
+      value.sid = sid;
+      return res.jsonResponse(200, value);
     });
   }
 

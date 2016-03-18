@@ -1,9 +1,8 @@
 'use strict';
 
-
 var config = require("../config");
 var logger = require("logger-node").createLogger(config.logger);
-var requestJSON = require("../lib/requestJSON")
+var requestJSON = require("../lib/requestJSON");
 
 describe('#SampleController', function() {
 
@@ -89,6 +88,26 @@ describe('#SampleController', function() {
     var url = "http://127.0.0.1:8080/person/leking";
 
     requestJSON(url, 'delete', {}, function(err, result) {
+      if (err) {
+        logger.debug('failure:', result);
+        done(err);
+      } else {
+        logger.debug('success:', result);
+        done();
+      }
+    });
+
+  });
+
+  it('Sample to redis', function(done) {
+
+    var url = "http://127.0.0.1:8080/register";
+    var data = {
+      username: "leking",
+      appCode: 100000
+    };
+
+    requestJSON(url, 'post', data, function(err, result) {
       if (err) {
         logger.debug('failure:', result);
         done(err);

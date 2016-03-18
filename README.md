@@ -5,6 +5,8 @@ express-restful-demo
 
 ## 安装
 
+安装之前需要安装mongodb，redis。请提前安装。
+
 ```
 git clone https://github.com/lordking/express-restful-demo.git
 cd express-restful-demo
