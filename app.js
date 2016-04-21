@@ -20,6 +20,6 @@ async.series([
 
   if (err) {
     logger.error(err);
-    process.exit();
+    setTimeout(process.exit, 1000);
   };
 });
