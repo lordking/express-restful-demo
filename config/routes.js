@@ -3,6 +3,8 @@
 const SampleController = require('../api/SampleController');
 
 module.exports = {
+  '/': SampleController.index,
+
   'post /sample/hello': SampleController.hello,
   'post /person/new': SampleController.createPerson,
   'get /person/:username': SampleController.findPerson,
