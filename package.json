@@ -4,7 +4,7 @@
   "description": "a http rest api server demo with express",
   "main": "app.js",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.1.5",
     "body-parser": "^1.15.0",
     "ejs": "^2.5.1",
     "express": "^4.13.4",
